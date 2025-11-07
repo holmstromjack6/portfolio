@@ -14,4 +14,4 @@ I'm a cybersecurity & networking student who learns fast and gets things done. I
 - **arduino-hourglass** — Digital hourglass and motor control code used in class projects.
 
 ## Want to work together?
-I’m open to internships and entry-level roles in cybersecurity and networking. Email: jack.holmstrom@example.com · LinkedIn: linkedin.com/in/jack-holmstrom
+I’m open to internships and entry-level roles in cybersecurity and networking. Email: holmstromjack6@gmail.com · LinkedIn: linkedin.com/in/jack-holmstrom
