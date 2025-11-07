@@ -1,6 +1,6 @@
 # portfolio
-# Hi — I'm Jack 👋
-I'm a cybersecurity & networking student who learns fast and gets things done. I’m finishing up coursework at Central Washington University and I love hands-on labs — subnetting, router/switch config, packet analysis, and automation. I also build Arduino projects and small web tools.
+# Hi I'm Jack 
+I'm a cybersecurity & networking student who learns fast and gets things done. I’m finishing up coursework at Whatcom Community College and I love hands on labs subnetting, router/switch config, packet analysis, and automation. I also build Arduino projects and small web tools.
 
 **Quick facts**
 - Major: Cybersecurity / Networking
@@ -15,7 +15,3 @@ I'm a cybersecurity & networking student who learns fast and gets things done. I
 
 ## Want to work together?
 I’m open to internships and entry-level roles in cybersecurity and networking. Email: jack.holmstrom@example.com · LinkedIn: linkedin.com/in/jack-holmstrom
-
----
-
-> ⚡️ I like turning class labs into polished, reusable tools. Check the Projects section below to see examples and code.
